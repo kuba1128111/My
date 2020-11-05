@@ -1,0 +1,2 @@
+To open www site on linux type"apt-get install links"
+and type"links"
